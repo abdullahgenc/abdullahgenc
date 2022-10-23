@@ -5,6 +5,7 @@
 - 🔭 I’m currently working on **iOS Development** 
 - 🌱 I’m currently learning **Swift** 
 - 📫 How to reach me **gencc.abdullahh@gmail.com** 
+- 📄 Know about my experiences [**Abdullah's Resume**](https://github.com/abdullahgenc/abdullahgenc/blob/main/Abdullah's%20Resume.pdf) 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
