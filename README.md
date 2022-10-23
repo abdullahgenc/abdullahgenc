@@ -50,7 +50,7 @@
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=abdullahgenc&theme=gruvbox&hide_border=true" />
   </a>
   <a href="https://github.com/abdullahgenc/">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahgenc&langs_count=6&theme=gruvbox&layout=compact&hide_border=true" alt="abdullahgenc :: overall Top Langs " />
+    <img src="https://github-readme-stats-abdullahgenc.vercel.app/api/top-langs/?username=abdullahgenc&langs_count=6&theme=gruvbox&layout=compact&hide_border=true&exclude_repo=github-readme-stats" alt="abdullahgenc :: overall Top Langs " />
   </a>
 </p>
 
