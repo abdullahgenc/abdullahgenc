@@ -1,11 +1,12 @@
-<h1 align="center">Hi 👋, I'm Abdullah</h1>
+<h1 align="center">Hi 👋, I'm Abdullah Genç</h1>
 
-<h3 align="center">A passionate iOS developer from Istanbul</h3> 
+<h3 align="center">Experienced iOS Engineer | AI & CoreML Enthusiast</h3> 
 
-- 🔭 I’m currently working on **iOS Development** 
-- 🌱 I’m currently learning **Swift** 
-- 📫 How to reach me **gencc.abdullahh@gmail.com** 
-- 📄 Know about my experiences [**Abdullah's Resume**](https://github.com/abdullahgenc/abdullahgenc/files/12039553/Abdullah.s.Resume.pdf)
+- 🔭 I’m currently working as an **iOS Developer at Pazarama**
+- 💡 Specialized in **Swift, MVVM, CoreML, and AI-driven workflows (MCP)**
+- 🌱 Exploring and building **on-device Machine Learning experiences**
+- 📫 How to reach me: **gencc.abdullahh@gmail.com**
+- 📄 Know about my experiences: [**Abdullah's Resume**](https://github.com/user-attachments/files/25543229/ABDULLAH_GENC_CV.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -47,18 +48,9 @@
 
 <p align="center">
   <a href="https://github.com/abdullahgenc/">
-    <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=abdullahgenc&show_icons=true&theme=gruvbox&hide_border=true" />
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=abdullahgenc&theme=gruvbox&hide_border=true" />
   </a>
   <a href="https://github.com/abdullahgenc/">
     <img src="https://github-readme-stats-abdullahgenc.vercel.app/api/top-langs/?username=abdullahgenc&langs_count=6&theme=gruvbox&layout=compact&hide_border=true&exclude_repo=github-readme-stats" alt="abdullahgenc :: overall Top Langs " />
   </a>
 </p>
-
-<samp>
-  <br />
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img alt="Abdullah's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=abdullahgenc&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true" />
-  </a>
-  <br />
-</samp>
