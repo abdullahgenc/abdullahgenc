@@ -1,12 +1,16 @@
 <h1 align="center">Hi 👋, I'm Abdullah Genç</h1>
 
-<h3 align="center">Experienced iOS Engineer | AI & CoreML Enthusiast</h3> 
+<h3 align="center">Experienced iOS Engineer | AI & CoreML Specialist</h3> 
 
-- 🔭 I’m currently working as an **iOS Developer at Pazarama**
-- 💡 Specialized in **Swift, MVVM, CoreML, and AI-driven workflows (MCP)**
-- 🌱 Exploring and building **on-device Machine Learning experiences**
-- 📫 How to reach me: **gencc.abdullahh@gmail.com**
-- 📄 Know about my experiences: [**Abdullah's Resume**](https://github.com/user-attachments/files/25543229/ABDULLAH_GENC_CV.pdf)
+<p align="center">
+  <a href="https://abdullahgenc.com" target="_blank">🌐 Visit My Portfolio Website</a>
+</p>
+
+- 🔭 I’m currently leading and scaling native architectures as an **iOS Developer at Pazarama**.
+- 💡 Specialized in **Swift, SwiftUI, MVVM, CoreML**, and optimizing developer workflows through **Custom AI Agents & MCP**.
+- 🌱 Passionate about **on-device Machine Learning** and processing intelligent, privacy-focused mobile experiences.
+- 📫 How to reach me: **contact@abdullahgenc.com**
+- 📄 View my credentials: [**Abdullah's Resume (PDF)**](Abdullah_Genc_Cv.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -15,42 +19,34 @@
   </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Core Stack & Tech Toolkit:</h3>
 <p align="left">
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" />
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" />
-  </a>
-  <a href="https://opencv.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40" />
-  </a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40" />
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" />
+  <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40" />
   </a>
   <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40" />
   </a>
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40" />
+  <a href="https://opencv.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40" />
   </a>
-  <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40" />
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" />
   </a>
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40" />
   </a>
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40" />
+  </a>
 </p>
-
 <p align="center">
   <a href="https://github.com/abdullahgenc/">
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=abdullahgenc&theme=gruvbox&hide_border=true" />
+    <img src="https://github-readme-stats-abdullahgenc.vercel.app/api/top-langs/?username=abdullahgenc&langs_count=6&theme=gruvbox&layout=compact&hide_border=true&exclude_repo=github-readme-stats" alt="Most Used Languages" />
   </a>
+</p>
+<p align="center">
   <a href="https://github.com/abdullahgenc/">
-    <img src="https://github-readme-stats-abdullahgenc.vercel.app/api/top-langs/?username=abdullahgenc&langs_count=6&theme=gruvbox&layout=compact&hide_border=true&exclude_repo=github-readme-stats" alt="abdullahgenc :: overall Top Langs " />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdullahgenc&theme=gruvbox&hide_border=true" alt="Streak Stats" />
   </a>
 </p>
