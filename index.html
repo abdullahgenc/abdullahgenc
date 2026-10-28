@@ -275,7 +275,7 @@
       flex-shrink: 0;
       box-shadow: 0 0 8px rgba(74,244,200,.5);
     }
-    .exp-dot.intern { background: var(--accent2); box-shadow: 0 0 8px rgba(59,130,246,.5); }
+    .exp-dot.past { background: var(--accent2); box-shadow: 0 0 8px rgba(59,130,246,.5); }
 
     .exp-role {
       font-family: 'Syne', sans-serif;
@@ -289,7 +289,7 @@
       color: var(--accent);
       margin-top: .15rem;
     }
-    .exp-company.intern { color: var(--accent2); }
+    .exp-company.past { color: var(--accent2); }
 
     .exp-date {
       font-family: 'DM Mono', monospace;
@@ -730,13 +730,13 @@
           </div>
         </div>
 
-        <div class="exp-item open reveal">
+        <div class="exp-item reveal">
           <div class="exp-header" onclick="toggleExp(this)">
             <div class="exp-header-left">
-              <div class="exp-dot"></div>
+              <div class="exp-dot past"></div>
               <div>
                 <div class="exp-role">iOS Developer</div>
-                <div class="exp-company">Pazarama</div>
+                <div class="exp-company past">Pazarama</div>
               </div>
             </div>
             <div style="display:flex;align-items:center;gap:1.5rem;">
@@ -763,10 +763,10 @@
         <div class="exp-item reveal">
           <div class="exp-header" onclick="toggleExp(this)">
             <div class="exp-header-left">
-              <div class="exp-dot intern"></div>
+              <div class="exp-dot past"></div>
               <div>
                 <div class="exp-role">iOS Developer Intern</div>
-                <div class="exp-company intern">Magis Technology</div>
+                <div class="exp-company past">Magis Technology</div>
               </div>
             </div>
             <div style="display:flex;align-items:center;gap:1.5rem;">
