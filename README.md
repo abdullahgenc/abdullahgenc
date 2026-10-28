@@ -1,14 +1,15 @@
 <h1 align="center">Hi 👋, I'm Abdullah Genç</h1>
 
-<h3 align="center">Experienced iOS Engineer | AI & CoreML Specialist</h3> 
+<h3 align="center">Expert iOS Developer at Migros One | Fintech · AI & CoreML</h3> 
 
 <p align="center">
   <a href="https://abdullahgenc.com" target="_blank">🌐 Visit My Portfolio Website</a>
 </p>
 
-- 🔭 I’m currently leading and scaling native architectures as an **iOS Developer at Pazarama**.
+- 🔭 I’m currently an **Expert iOS Developer at Migros One**, building **Moneyfinans**, Migros's digital finance experience, and its integration into the Migros app.
+- 🛒 Previously at **Pazarama**, I owned an app end-to-end, led the payment screen redesign and built AI-driven development workflows.
 - 💡 Specialized in **Swift, SwiftUI, MVVM, CoreML**, and optimizing developer workflows through **Custom AI Agents & MCP**.
-- 🌱 Passionate about **on-device Machine Learning** and processing intelligent, privacy-focused mobile experiences.
+- 🌱 Passionate about **on-device Machine Learning** and building intelligent, privacy-focused mobile experiences.
 - 📫 How to reach me: **contact@abdullahgenc.com**
 - 📄 View my credentials: [**Abdullah's Resume (PDF)**](Abdullah_Genc_Cv.pdf)
 

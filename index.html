@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Abdullah Genç — iOS Developer</title>
+  <title>Abdullah Genç | Expert iOS Developer</title>
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
   <link href="https://fonts.googleapis.com/css2?family=Syne:wght@400;500;600;700;800&family=DM+Mono:ital,wght@0,300;0,400;0,500;1,300&family=DM+Sans:ital,opsz,wght@0,9..40,300;0,9..40,400;0,9..40,500;1,9..40,300&display=swap" rel="stylesheet" />
@@ -172,25 +172,6 @@
       transform: translateY(-2px);
     }
 
-    .hero-stats {
-      display: flex; gap: 3rem;
-      margin-top: 4rem;
-      padding-top: 2.5rem;
-      border-top: 1px solid var(--border);
-    }
-    .stat-num {
-      font-family: 'Syne', sans-serif;
-      font-weight: 700;
-      font-size: 2rem;
-      color: #fff;
-      letter-spacing: -0.04em;
-    }
-    .stat-label {
-      font-size: .8rem;
-      color: var(--muted);
-      font-family: 'DM Mono', monospace;
-      letter-spacing: .04em;
-    }
 
     /* ── Section titles ───────────────────────────────── */
     .section-header {
@@ -578,13 +559,6 @@
       }
 
       #hero { padding-top: 6.5rem; }
-      .hero-stats { 
-        display: grid;
-        grid-template-columns: 1fr 1fr;
-        gap: 1.5rem; 
-        margin-top: 3rem;
-        padding-top: 2rem;
-      }
 
       .about-grid { grid-template-columns: 1fr; gap: 2.5rem; }
 
@@ -633,12 +607,13 @@
     <div class="hero-grid-bg"></div>
     <div class="hero-glow"></div>
     <div class="container hero-inner">
-      <div class="hero-tag">iOS Developer · AI-Driven Workflows</div>
+      <div class="hero-tag">Expert iOS Developer · AI-Driven Workflows</div>
       <h1>Abdullah<br/><span>Genç</span></h1>
       <p class="hero-sub">
-        Experienced iOS Engineer specializing in robust architectures and
-        AI-driven workflows. Building intelligent, on-device mobile experiences
-        with CoreML, SwiftUI, and modern Apple frameworks.
+        Expert iOS Developer at Migros One, building Moneyfinans, Migros's digital
+        finance experience. Specializing in robust architectures, AI-driven workflows,
+        and intelligent on-device experiences with CoreML, SwiftUI, and modern Apple
+        frameworks.
       </p>
       <div class="hero-cta">
         <a href="mailto:contact@abdullahgenc.com" class="btn btn-primary">
@@ -651,45 +626,33 @@
           Download CV
         </a>
       </div>
-      <div class="hero-stats">
-        <div>
-          <div class="stat-num">3+</div>
-          <div class="stat-label">years experience</div>
-        </div>
-        <div>
-          <div class="stat-num">3</div>
-          <div class="stat-label">apps maintained</div>
-        </div>
-        <div>
-          <div class="stat-num">2</div>
-          <div class="stat-label">ML research projects</div>
-        </div>
-        <div>
-          <div class="stat-num">∞</div>
-          <div class="stat-label">lines of Swift</div>
-        </div>
-      </div>
     </div>
   </section>
 
   <section id="about">
     <div class="container">
       <div class="section-header reveal">
-        <div class="section-tag">// 01 — about</div>
+        <div class="section-tag">// 01 - about</div>
         <h2 class="section-title">Who I am</h2>
       </div>
       <div class="about-grid">
         <div class="about-text reveal">
           <p>
-            I'm an iOS developer based in Turkey with a Computer Engineering background
+            I'm an iOS developer based in Istanbul with a Computer Engineering background
             from Yıldız Technical University. I specialize in crafting scalable,
             production-grade iOS applications with clean architecture and high performance.
           </p>
           <p>
-            My work at Pazarama has spanned full product ownership — from solo app
-            delivery to redesigning core payment systems. Lately, I've been pushing the
-            frontier by integrating AI-driven workflows with custom agents and an MCP
-            ecosystem that includes Xcode, Figma, SonarQube, and Crashlytics.
+            Since July 2026, I've been working as an Expert iOS Developer at Migros One on
+            Moneyfinans, Migros's digital finance experience, and its integration into the
+            Migros app. My work focuses on customer-facing financial flows, a modular
+            SDK-based architecture, and product analytics.
+          </p>
+          <p>
+            Before that, my work at Pazarama spanned full product ownership, from solo app
+            delivery to redesigning core payment systems. I also pushed the frontier by
+            integrating AI-driven workflows with custom agents and an MCP ecosystem that
+            includes Xcode, Figma, SonarQube, and Crashlytics.
           </p>
           <p>
             Outside of work, I research real-world deep learning applications, including
@@ -735,10 +698,37 @@
   <section id="experience">
     <div class="container">
       <div class="section-header reveal">
-        <div class="section-tag">// 02 — experience</div>
+        <div class="section-tag">// 02 - experience</div>
         <h2 class="section-title">Where I've worked</h2>
       </div>
       <div class="exp-list">
+
+        <div class="exp-item open reveal">
+          <div class="exp-header" onclick="toggleExp(this)">
+            <div class="exp-header-left">
+              <div class="exp-dot"></div>
+              <div>
+                <div class="exp-role">Expert iOS Developer</div>
+                <div class="exp-company">Migros One</div>
+              </div>
+            </div>
+            <div style="display:flex;align-items:center;gap:1.5rem;">
+              <div class="exp-date">Jul 2026 - Present</div>
+              <div class="exp-chevron">▼</div>
+            </div>
+          </div>
+          <div class="exp-body">
+            <div class="exp-content">
+              <ul>
+                <li><strong>Fintech Features:</strong> Developing customer-facing financial flows in Moneyfinans with Swift, SwiftUI, and UIKit, focused on clear and consistent transaction experiences.</li>
+                <li><strong>App Integration:</strong> Contributing to the integration of Moneyfinans into the Migros app, so financial services fit naturally into the shopping experience.</li>
+                <li><strong>SDK Development:</strong> Contributing to a modular, SDK-based mobile architecture, including integration and release work.</li>
+                <li><strong>Product Analytics:</strong> Implementing analytics that help the product team understand user journeys.</li>
+                <li><strong>Quality:</strong> Strengthening reliability through careful error handling and unit testing.</li>
+              </ul>
+            </div>
+          </div>
+        </div>
 
         <div class="exp-item open reveal">
           <div class="exp-header" onclick="toggleExp(this)">
@@ -750,7 +740,7 @@
               </div>
             </div>
             <div style="display:flex;align-items:center;gap:1.5rem;">
-              <div class="exp-date">Dec 2022 — Present</div>
+              <div class="exp-date">Dec 2022 - Jul 2026</div>
               <div class="exp-chevron">▼</div>
             </div>
           </div>
@@ -762,9 +752,9 @@
                 <li><strong>AI-Driven Development:</strong> Engineered custom AI agents tailored to coding standards and evolved them into a modular "Skills" architecture. Built specialized helpers for TDD, Code Review, and on-demand Widget & Live Activities generation.</li>
                 <li><strong>MCP Ecosystem:</strong> Expanded MCP connections by integrating SonarQube alongside Xcode, Figma, and Crashlytics for a comprehensive development pipeline.</li>
                 <li><strong>Feature Delivery:</strong> Shipped high-impact features including Pazarama Plus, Süper Çekiliş, and Kazı Kazan.</li>
-                <li><strong>Solo Product Ownership:</strong> Managed end-to-end development of the Pazarama İş Ortağım app from scratch — a robust mobile solution for business partners.</li>
+                <li><strong>Solo Product Ownership:</strong> Managed end-to-end development of the Pazarama İş Ortağım app from scratch, a robust mobile solution for business partners.</li>
                 <li><strong>Hybrid Integration:</strong> Implemented seamless two-way communication between native iOS and WKWebView components.</li>
-                <li><strong>App Maintenance:</strong> Actively maintained Pazarama, Pazarama İş Ortağım, and Maximum Mobile applications.</li>
+                <li><strong>App Maintenance:</strong> Maintained Pazarama, Pazarama İş Ortağım, and Maximum Mobile applications.</li>
               </ul>
             </div>
           </div>
@@ -780,7 +770,7 @@
               </div>
             </div>
             <div style="display:flex;align-items:center;gap:1.5rem;">
-              <div class="exp-date">Apr 2021 — Jun 2021</div>
+              <div class="exp-date">Apr 2021 - Jun 2021</div>
               <div class="exp-chevron">▼</div>
             </div>
           </div>
@@ -800,7 +790,7 @@
   <section id="skills">
     <div class="container">
       <div class="section-header reveal">
-        <div class="section-tag">// 03 — skills</div>
+        <div class="section-tag">// 03 - skills</div>
         <h2 class="section-title">Technical toolkit</h2>
       </div>
       <div class="skills-grid">
@@ -829,6 +819,8 @@
             <span class="skill-tag blue">Coordinator Pattern</span>
             <span class="skill-tag blue">TDD</span>
             <span class="skill-tag blue">Unit Testing</span>
+            <span class="skill-tag blue">Modular SDKs</span>
+            <span class="skill-tag blue">Product Analytics</span>
             <span class="skill-tag blue">Agile & Scrum</span>
           </div>
         </div>
@@ -867,7 +859,7 @@
   <section id="projects">
     <div class="container">
       <div class="section-header reveal">
-        <div class="section-tag">// 04 — projects</div>
+        <div class="section-tag">// 04 - projects</div>
         <h2 class="section-title">Personal work</h2>
       </div>
       <div class="projects-grid">
@@ -880,7 +872,7 @@
           <div class="project-title">Intelligent iOS Applications & CoreML</div>
           <div class="project-desc">
             Engineered privacy-focused, real-time AI capabilities for native iOS apps
-            by training custom ML models and integrating them via CoreML — bringing
+            by training custom ML models and integrating them via CoreML, bringing
             intelligence on-device without relying on cloud inference.
           </div>
         </div>
@@ -888,11 +880,11 @@
         <div class="project-card reveal">
           <div class="project-card-head">
             <div class="project-icon">🫁</div>
-            <div class="project-year">Feb – Jul 2022</div>
+            <div class="project-year">Feb - Jul 2022</div>
           </div>
           <div class="project-title">SARS-CoV-2 Detection via Chest X-Ray</div>
           <div class="project-desc">
-            Deep learning–based classification system for detecting SARS-CoV-2 infection
+            Deep learning-based classification system for detecting SARS-CoV-2 infection
             from chest X-ray images, applying CNNs and transfer learning for high-accuracy
             medical image analysis.
           </div>
@@ -901,12 +893,12 @@
         <div class="project-card reveal">
           <div class="project-card-head">
             <div class="project-icon">🔬</div>
-            <div class="project-year">Feb – Jul 2021</div>
+            <div class="project-year">Feb - Jul 2021</div>
           </div>
           <div class="project-title">Histopathological Image Classification</div>
           <div class="project-desc">
             Classification of different tissue types in histopathological images using
-            deep learning methods — contributing to computational pathology research
+            deep learning methods, contributing to computational pathology research
             through model training and evaluation.
           </div>
         </div>
@@ -918,7 +910,7 @@
   <section id="education">
     <div class="container">
       <div class="section-header reveal">
-        <div class="section-tag">// 05 — education</div>
+        <div class="section-tag">// 05 - education</div>
         <h2 class="section-title">Background</h2>
       </div>
       <div class="edu-card reveal">
@@ -926,7 +918,7 @@
         <div>
           <div class="edu-degree">Computer Engineering</div>
           <div class="edu-school">Yıldız Technical University</div>
-          <div class="edu-date">Sep 2015 — Jun 2022</div>
+          <div class="edu-date">Sep 2015 - Jun 2022</div>
         </div>
       </div>
     </div>
@@ -953,7 +945,7 @@
   </section>
 
   <footer>
-    <div>© 2025 Abdullah Genç — designed &amp; built with care</div>
+    <div>© 2026 Abdullah Genç · designed &amp; built with care</div>
   </footer>
 
   <script>
